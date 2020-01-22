@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Village" id="Village">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="VIL_NAME_T" type="string"></SimpleField>
+	<SimpleField name="VIL_NAME_E" type="string"></SimpleField>
+</Schema>
+<Folder><name>Village</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="VIL_NAME_T">ท่าฉัตรไชย</SimpleData>
+		<SimpleData name="VIL_NAME_E">Tha Chat Chai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.303256719238092,8.194708667267877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านท่าฉัตรไชย</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Tha Chat Chai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.290657865717449,8.192812742576532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านปากคลองหยิด</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban PaK Khlong Yit</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.308327962935948,8.188829207545899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านสวนมะพร้าว (1)</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Suan Maphrao(1)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.306158160579443,8.175301763061853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านสวนมะพร้าว(2)</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Suan Maphrao(2)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.298872126862989,8.168643511076381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านด่านหยิด</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Dan Yit</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.31653961563822,8.182190705297355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านด่าน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Dan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.314658848520224,8.170355723554396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านหยิด</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Yit</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.308747798805811,8.155882958993789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านคอเอ็น</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Kho En</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.340065752555077,8.159708584003147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="VIL_NAME_T">โรงเรียนบ้านคอเอ็น</SimpleData>
+		<SimpleData name="VIL_NAME_E">Rong Riant Ban Kho En</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.323021352428555,8.151320734103217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านอ่าวตุขุน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Ao Tu Khun</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.342271686529088,8.150615818769913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบ่อสวม</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bo Som</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.309905110164252,8.130397654863019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านไม้ขาว</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Mai Khao</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.314490928007785,8.12066125861003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านทุ่งคา</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Thung Kha</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.320794891704097,8.1209867023884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบ่อไทรกลาง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bo Sai Klang</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.315992487988169,8.114145818661109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านส้มป่อย</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Som Poi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.339824108169637,8.125911315451118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางดุก</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Duk</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.345623307771348,8.132015271318139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านหมากปรก</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Mak Prok</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.340494150474385,8.118048408725217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบ่อไทร</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bo Sai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.31269127698566,8.106605314366041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางรากไม้</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Rak Mai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.338555225007056,8.107089601681885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านดินทราย</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Din Sai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.31072853551774,8.099443546729104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านแหลมทราย</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Laem Sai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.370943672872897,8.116069954044274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านจะทู</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Chathu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.370019602585032,8.099826571598412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านยุน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Yun</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.337141071595909,8.100997244984891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านหัวห้อง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Hua Hong</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.341119357912632,8.08976535897556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านดินเหนียว</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Din Nieo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.313639596212568,8.093965558015484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านในยาง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Nai Yang</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.308200939616469,8.090417006597351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านพะม่าลง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Phama Long</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.306724266259948,8.081369061703066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านสาคู</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Sakhu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.296253865650186,8.069713267251766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านในทอน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Nai Thon</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.284721367431601,8.059219921957903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านนาซอก</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Na Sok</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.312637820709242,8.055735637769029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเขาตาเกลี้ยง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Khao Ta Kliang</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.325210266254103,8.06666581712264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเมืองใหม่(1)</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Muang Mai(1)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.345634168445457,8.084414050804446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางขนุน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Khanun</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.347353925563752,8.074768663183381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเมืองใหม่(2)</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Muang Mai(2)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.346487845992826,8.063073285172328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านท่ามะพร้าว</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Tha Maphrao</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.35782610245866,8.093179867085603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านท่าสัก</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Tha Sak</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.369175773386175,8.084343647930393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านพารา</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Phara</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.389057135955639,8.074231548001169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านอ่าวกุ้ง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Ao Kung</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.408662167090611,8.074467813562283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านช่างแตง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Chang Taeng</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.418407679401099,8.082631950526519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านตุมเพลาะ</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Tum Phlo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.414363032544259,8.062105750626097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านทุมเพลาะ</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Thum Phlo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.41902955956644,8.069209383819755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางหนาว</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Nao</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.397690577466264,8.06698061171242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านแหลมขาด</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Laem Khat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.431987791188376,8.094953488088409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางโรง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Rong</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.41191352440633,8.050120919510734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านแหลมยาง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Laem Yang</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.43812513420302,8.065518489742942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านแหลมปอ</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Laem Po</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.432904811497437,8.057724033073844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเกาะแรด</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Ko Raet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.451076355413662,8.055713038871096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเกาะนาคาใหญ่</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Ko Nakha Yai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.467514456134268,8.048658569670829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางแป</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Pae</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.408863792853452,8.037929438974867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านลายัน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Layan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.301729455176186,8.040902825935467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านนอกเล</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Nok Le</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.300299575377721,8.025857050869888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโคกโตนด</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Khok Tanot</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.314661924576853,8.014950991113611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านดอน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Don</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.323216212261855,8.014851496844745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านป่าสัก</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Pa Sak</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.317375119719259,8.007793040583524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านพานนาปวน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Phan Na Puan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.312873223638377,8.001389676831613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านมุดดอกขาว</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Mut Dok Khao</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.339549788219642,8.047494110869447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านพรุจำปา</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Phru Champa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.326666424441683,8.041180176113137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านพรุสมภาร</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Phru Somphan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.323826581761764,8.035872924033225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเหรียง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Riang</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.329344820909924,8.031040091965426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเคียน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Khian</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.342944564107924,8.033992604047745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านควน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Khuan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.3566595036325,8.037233170676851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบ่อกรวด</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bo Kruat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.353830702288533,8.026491773459364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านในคร่ำ</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Nai Khram</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.341778093251193,8.009898338751389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านยา</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Ya</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.332289688134964,8.004679412091081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกล้วย</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Kluai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.339827392514408,8.003589181244784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านลิพวน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Li Phuan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.347157541481792,8.004076831109282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านลิพวนบางกอก</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Li Phuan Bang Kok</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.358136008963029,8.002411677737339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโคกโตนด(1)</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Khok Tanot(1)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.312868875326757,7.998059441381662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="VIL_NAME_T">โรงเรียนบ้านป่าคลอก</SimpleData>
+		<SimpleData name="VIL_NAME_E">Rong Rian Ban Pa Khlok</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.405525784422281,8.021271520808549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านป่าคลอก</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Pa Khlok</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.403815966137529,8.013960631063384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="VIL_NAME_T">วัดโสภณวนาราม</SimpleData>
+		<SimpleData name="VIL_NAME_E">Wat Sophon Wanaram</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.398596107490533,8.001883536715116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านผักฉีด</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Phak Chit</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.39580954253627,7.99436132089766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านอ่าวยามู</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Ao Yamu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.416801114122649,7.988569821586408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางลา</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang La</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.386686628586858,7.992083792328898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านนาสาด</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Na Sat</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.366506546625985,7.984351521883708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านท่าเรือ</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Tha Rua</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.370659045284967,7.976440626838863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านพอนบางกอก</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Phon Bang Kok</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.358776461195873,7.992137544902555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางเทา(1)</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Thao(1)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.307155461369845,7.987661810664726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางเทา(2)</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Thao(2)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.301269298733885,7.979137256212591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางเทา(3)</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Thao(3)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.29520117286927,7.977998619675444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านควนกลาง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Khuan Klang</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.289714456077988,7.975974495183478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านลุ่มเฟือง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Lum Fuang</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.283782138327709,7.97619661994223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านปากทางบางโจ</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Pak Tang Bang Cho</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.330817381453087,7.98661820191133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางโจ</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Cho</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.337189241959933,7.986483741132266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านต้นม่วง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Ton Muang</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.351616092861946,7.979583222672057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านพอนหัวหาญ</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAn Phon Hua Han</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.349788179569401,7.9926028895341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านลิพอนหัวหาญ</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Liphon Hua Han</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.35517750576139,7.988755333662819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านนาใน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Na NAi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.371279867718584,7.96073937925184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเกาะแก้ว</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Ko Kaeo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.383018419360042,7.960958816269793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางคู(1)</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Khu(1)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.390435275766123,7.952601950590995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางคู(2)</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Khu(2)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.376739820312181,7.953647247834607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านสะปัม</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Sapam</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.397264995125965,7.941092426103256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านแหลมหิน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Laem Hin</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.403737568340517,7.933384582090921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเกาะมะพร้าว</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Ko Maphrao</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.430355984705216,7.937632367564132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเชิงทะเล</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Choeng Thale</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.318149419132411,7.986350474816186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านนานอก</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Na NoK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.290852716124519,7.958929074876842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกมลา</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAn Kammala</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.28677866001442,7.953212504345633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">99</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านสักงำ</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Sak Ngam</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.291956861747408,7.955243465558869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">100</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านหัวควน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Hua Khuan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.294067404575529,7.951277474178826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">101</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางหวาน</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Bang Wan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.300848359179568,7.948136785146706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">102</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเหนือ</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Nua</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.296026256145225,7.944961228600548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกลาง(1)</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Klang(1)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.287911266006631,7.943057589981433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโคกยาง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAn KhoK Yang</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.282696370156287,7.940541496484419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกลาง(2)</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Klang(2)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.296478212517613,7.937947658683686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">106</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านนาคาเล</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Na Kha Le</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.27722167798315,7.923506151770794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">107</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านน้ำตก</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Nam Tok</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.328131511558766,7.928172597583951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">108</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านท่อสูง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Tho Sung</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.3340655609625,7.926637692066245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านห้วยลึก</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Huai Luk</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.333194689129414,7.922016568869535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านพรหมเทพ</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN PROMTHEP</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.317154351741195,7.763463424499561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">111</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโคกสั้น</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHOK SAN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.333273602832918,7.784900349995328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">112</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านราไวย์</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN RA WAI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.332369933743706,7.778367269703661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านหยะน้อย</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN YA NOI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.326446040085955,7.772570212456419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโคกสั้น</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHOK SAN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.328564074961221,7.77692706088143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">115</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางคณฑี</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN BANG KHONTHI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.342574015032156,7.81180188644453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">116</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านไสญวน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN SAIYUAN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.334594063713311,7.803895335585279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">117</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านไสยวน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN SAI YUAN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.323010451431998,7.794226479077008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโคกยาว</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHOK YAO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.317291640266689,7.793531575242347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">119</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโคกขาม</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHOK KHAM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.320653109249363,7.78658530964034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">120</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านราไวย์</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN RA WAI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.318418158950067,7.781121353412575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">121</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านหยะใหญ่</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN YA YAI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.322248553076022,7.776808484665763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">122</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านอ่าวกะตะน้อย</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN AO KATHA NOI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.303224408460494,7.804398277314347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเกาะโหลน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KO LON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.369536887906506,7.791726077354041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านแหลมพันวา</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN LAEM PHAN WA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.408018746938694,7.805656880720406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">125</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านแหลมเขาขาด</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN LAEM KHAO KHAT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.389263487945897,7.811811438962208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านอ่าวมะขาม</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN AO MAKHAM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.404218643112074,7.827952385365014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">127</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านพักไทยซาร์โก</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN PAK THAI SAKO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.40979863908008,7.833121059863956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">128</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านอ่าวน้ำบ่อ</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN AO NAM BO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.385554562825291,7.845423962784935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">129</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบ่อแร่</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN BO RAE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.378771079723066,7.851985273880301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">130</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านห้าแยกฉลอง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Ha Yaek Chalong</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.344158996228046,7.820131456262017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">131</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกะทะ</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KATHA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.323594171855191,7.818802183162124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">132</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกะตะ</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KATA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.308232769639517,7.818018085306681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">133</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านอ่าวกะตะน้อย</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN AO KATHA NOI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.300485406395651,7.821256429160034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านคอกช้าง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHOK CHANG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.305112230248909,7.825004171694992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">135</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกะรน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KARON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.301658265630905,7.829428247495991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">136</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางลา</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN BANG LA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.301188569456869,7.833701220070235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">137</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านในพรุ</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN NAI PHRU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.305641768831592,7.839333992057294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">138</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกะรน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KARON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.301565681162245,7.845690955526802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">139</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกะรน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KARON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.298088945716231,7.853246194266524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">140</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านอ่าวรนใน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN AO RON NAI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.286207310324457,7.864037717106561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">141</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านไตรตรัง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN TRAI TRANG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.274504444620462,7.883166293738457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">142</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านนาใน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN NANAI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.305658618535105,7.886482621018319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">143</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านตีนเขา</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN TIN KHAO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.361617813504964,7.855325484626049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">144</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านป่าไล้</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN PA LAI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.367043308068105,7.841244838191292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">145</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านนาบอน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN NA BON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.353678598559242,7.843239892444003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">146</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านสวน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN SUAN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.355949604648885,7.838643389672508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">147</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโคกทราย 1</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Khok Sai</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.349629847489325,7.833690554972193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">148</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโคกโตนด</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHOK TANOT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.351194493289057,7.831843815838549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">149</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโคกโตนด 2</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHOK TANOT 2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.349821280654268,7.830148577795526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">150</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านหัวนน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN HUA NON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.342135155951581,7.830683883032685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">151</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโคกทราย 2</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHOK SAI 2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.337283283787016,7.829177635476943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">152</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางแร่</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN BANG RAE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.332653546472102,7.830598319876491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกลาง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KLANG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.3329851192929,7.837579913009644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">154</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านวัดใหม่</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN WAT MAI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.333295692930577,7.841373098713082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">155</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านตกวัด</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN TOK WAT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.33502635319104,7.844283812750647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">156</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเหนือบาง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN NUA BANG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.332592566856917,7.848945498560362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">157</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านตลาดนั่งยอง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN TALAT NANG YONG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.339737915185822,7.850921241717289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">158</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเขาน้อย</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHAO NOI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.344915341796934,7.857925678659783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">159</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านสวนลอยวง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN SUAN YANG LO YONG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.348447572133992,7.863009964073496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">160</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านนาคา</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN NA KHA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.361976715466739,7.869030441654931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">161</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านวิชิต</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN WICHIT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.384373654774564,7.87986600702817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">162</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกะรนนุ้ย</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KARONNUI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.299098330779785,7.869633385116385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">163</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านนากก</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN NA KOK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.333219025809527,7.859950328269709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">164</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านปะตอง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN PATONG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.300644944300728,7.894952221616082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">165</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านชายเล</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN CHAI LE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.308203162962897,7.893965885999529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">166</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านปะตอง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN PATONG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.312220781332528,7.900776586481473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">167</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโคกมะขาม</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHOK MAKHAM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.302352538665843,7.903468065095832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">168</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกะหลิม</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KALIM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.299371225668821,7.909087333937846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">169</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านควนเมิน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHUN MOEN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.329991713186502,7.902135061451711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">170</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านลิกอ</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN LIKO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.335780962303758,7.909714971850832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">171</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางทอง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN BANG THONG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.339535512236353,7.905847400774238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">172</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านใสน้ำเย็น</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN SAI NAM YEN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.343822800757764,7.897410063077833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">173</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเก็ตโฮ่</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KET HO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.355645470906765,7.900498107688979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">174</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านตลาดใหญ่</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN TALAT YAI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.364832318442424,7.894741418377326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">175</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเขารัง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHAO RANG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.368274914779406,7.895358303678905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">176</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านตลาดเหนือ</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN TALAT NUA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.372050030006889,7.887164627203178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">177</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านระแงะ</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Ra Ngeng</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.372728749202778,7.884678813231011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">178</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านตลาดกะทู้</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN TALAT KATHU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.348743750366367,7.912143628407195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">179</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านสามกอง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN SAM KONG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.376826101008746,7.904231350452827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">180</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านทุ่งคาเนียงแตก</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN THUNG KANIANG TAEK</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.379227624522215,7.911414457214365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">181</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านชีหล้า</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN CHI LAO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.402230863686796,7.920683088532863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">182</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านพรุใหญ่</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN PHLU YAI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.397476876817748,7.925060860644359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">183</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านควนดินแดง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHUAN DIN DAENG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.391082070758259,7.930420959131046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">184</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านกูกู</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Kuku</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.402543214494287,7.907348209843054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">185</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านหลักกงษี</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Lak Kongsi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.392705817355903,7.905794659723883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">186</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านท่าจีน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN THA CHIN</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.412996640441051,7.901556053926896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">187</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโล๊ะติปะ 3</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN LO TI PA 3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.422045649555955,7.890052487273068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">188</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านแหลมงา</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN LAEM NGA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.434909033525585,7.906245079242136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">189</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านแหลมพับผ้า</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN LAEM PHAP PHA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.43563644186176,7.867385716279255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">190</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านแหลมตุ๊กแก</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN LAEM TUKKAE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.423254014532361,7.871725829631077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">191</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านโล็ะติปะ 2</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN LO TI PA 2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.430826621866018,7.875584893916376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">192</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านแหลมไม้ไผ่</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN LAEM MAI PHAI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.438683472951908,7.878987429416414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">193</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านเกาะสิเหร่</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KO SIRE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.424860782092466,7.884647923450165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">194</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านท่าจีน 2</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN THA CHIN 2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.416856317632991,7.879182064722547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">195</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านบางเหนียว</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN BANG NIEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.40662286458759,7.879255892763055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">196</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านคอกช้าง</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN KHOK CHANG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.40556365477137,7.907714324111047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">197</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านหัวนอน</SimpleData>
+		<SimpleData name="VIL_NAME_E">BAN HUA NON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.349353139502711,7.849421178614069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Village">
+		<SimpleData name="OBJECTID">198</SimpleData>
+		<SimpleData name="VIL_NAME_T">บ้านท่าแครง</SimpleData>
+		<SimpleData name="VIL_NAME_E">Ban Tha Khlaeng</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>98.38375677733373,7.867606726138192</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
